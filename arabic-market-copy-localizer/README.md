@@ -1,22 +1,14 @@
-# Arabic Market Copy Localizer
+# Saudi and Gulf Arabic Copy Localizer
 
-A practical brief and review workflow for adapting campaign copy across Egyptian Arabic, Modern Standard Arabic, and Gulf audiences. The goal is audience fit and clarity—not a claim that one dialect or phrase will improve performance.
+A writing workflow and reference set for adapting Arabic marketing copy to a specified Gulf audience, brand voice, product facts, and channel. It treats dialect choice as a brief-specific editorial decision rather than a universal formula.
 
-## Workflow
+## Included
 
-1. Record the product, audience, market, channel, objective, offer, and required facts.
-2. Preserve the offer and factual meaning; adapt register, vocabulary, and rhythm for the selected market.
-3. Develop two or three options with a short rationale and a literal meaning check.
-4. Mark claims that need evidence or legal/platform review. Do not invent shipping, warranty, price, stock, results, or eligibility details.
-5. Ask a native reviewer familiar with the intended audience to check naturalness and unintended meanings.
-6. Compare variants with the same audience and comparable delivery conditions; report observed results with dates and sample sizes.
+- [`SKILL.md`](SKILL.md): localization workflow.
+- [`references/`](references/): vocabulary, register, and seasonal planning references.
+- [`prompts/standalone-prompt-pack.md`](prompts/standalone-prompt-pack.md): reusable prompt templates.
+- [`examples/before-after-campaigns.md`](examples/before-after-campaigns.md): illustrative rewrites for discussion, not performance case studies.
 
-## Files
+## Review checklist
 
-- `copy-development-brief.md` — structured input brief and writing instructions.
-- `review-checklist.md` — human review before publishing.
-- `example.md` — synthetic language example, not a campaign case study.
-
-## Scope
-
-This is a language workflow, not a dialect authority, market-research report, compliance review, or performance guarantee. Dialects vary by city, generation, context, and audience. Confirm current product and offer facts with the business owner.
+Specify country/region, audience, channel, formality, brand voice, product facts, offer terms, and prohibited wording. Have a fluent local reviewer check naturalness and cultural fit. Never invent product benefits, availability, delivery promises, discounts, financing, or results. Test alternatives with real campaign data; localization alone does not guarantee better performance.

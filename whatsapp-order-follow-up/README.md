@@ -1,19 +1,16 @@
-# WhatsApp Order Follow-up Playbook
+# WhatsApp Commerce Conversation Toolkit
 
-Adaptable message flows for cart follow-up, order confirmation, and delivery updates. The content is a starting point; it does not guarantee conversion, delivery success, policy approval, or cost savings.
+Reusable message flows and operating prompts for order confirmation, cart follow-up, and customer-service handoffs. Adapt wording to the store's actual policies, customer consent, approved WhatsApp setup, and current Meta requirements.
 
 ## Included
 
-- `message-flows.md` — editable customer-facing examples.
-- `support-operating-guide.md` — operating boundaries for a support team.
-- `launch-checklist.md` — consent, template, handoff, and measurement checks.
+- [`agent-prompts/`](agent-prompts/): assistant behavior prompt.
+- [`templates/`](templates/): Arabic and English message sequences for review and adaptation.
+- [`guides/`](guides/): implementation considerations and verification questions.
+- [`examples/`](examples/): fictional conversation structure; not a deployed client system or measured result.
 
-## Use
+## Before use
 
-1. Confirm the customer’s request, order state, and contact permissions in the system of record.
-2. Replace placeholders only with verified details and approved terms.
-3. Use the correct message category and template process for the current WhatsApp Business product and provider.
-4. Offer a human handoff and honor opt-outs.
-5. Measure replies, confirmations, cancellations, delivered orders, and complaints separately.
+Confirm opt-in and template category/approval, current provider pricing, business hours, delivery/return policies, and escalation ownership. Collect only information needed to fulfill the order; do not request passwords, payment-card data, or unnecessary location/health data. Define retention and deletion practices with the business. Test with internal numbers before enabling customer traffic.
 
-Check current official Meta and provider documentation for message categories, template rules, rates, opt-in, and regional availability. Provider fees and taxes may also apply.
+No recovery, RTO, or revenue lift is guaranteed. Measure outcomes against a documented baseline and a suitable comparison period.

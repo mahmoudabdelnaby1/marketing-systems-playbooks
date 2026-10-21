@@ -1,0 +1,35 @@
+{
+  "dataset_name": "Advertising Claims for Human Review (Arabic + English)",
+  "notice": "Phrase matches are prompts for evidence and jurisdiction review, not automatic legal bans, compliant rewrites, or legal conclusions. Check current primary sources for the specific product, market, and channel.",
+  "rules": [
+    {
+      "id": "REVIEW-001",
+      "category": "Absolute or comparative wording",
+      "phrases_ar": ["الأفضل", "رقم ١", "مضمون 100%", "الوحيد"],
+      "phrases_en": ["the best", "number one", "100% guaranteed", "the only"],
+      "review_questions": ["What evidence supports the claim?", "Does the market or product category impose specific requirements?", "Could the wording mislead the intended audience?"]
+    },
+    {
+      "id": "REVIEW-002",
+      "category": "Health, safety, or outcome claims",
+      "phrases_ar": ["نتائج فورية", "آمن 100%", "بدون أي مخاطر", "ثبت سريرياً"],
+      "phrases_en": ["instant results", "100% safe", "zero risk", "clinically proven"],
+      "review_questions": ["What evidence supports the exact wording?", "Is the product/service regulated?", "Does the statement imply a guaranteed individual outcome?"]
+    },
+    {
+      "id": "REVIEW-003",
+      "category": "Price, promotion, or availability",
+      "phrases_ar": ["خصم 50%", "لفترة محدودة", "مجاني", "توصيل اليوم"],
+      "phrases_en": ["50% off", "limited time", "free", "same-day delivery"],
+      "review_questions": ["Are the offer terms, dates, eligibility, and total price accurate?", "Can the business fulfill the stated availability or delivery promise?"]
+    },
+    {
+      "id": "REVIEW-004",
+      "category": "Testimonials, endorsements, or creator content",
+      "phrases_ar": ["تجربتي في", "رأي المريض", "إعلان", "شراكة مدفوعة"],
+      "phrases_en": ["my experience at", "patient testimonial", "advertisement", "paid partnership"],
+      "review_questions": ["Is the content authentic and authorized?", "Are disclosure and consent requirements confirmed for this activity and market?", "Does the content include personal or sensitive data?"]
+    }
+  ]
+}
+

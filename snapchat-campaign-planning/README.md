@@ -1,20 +1,14 @@
-# Snapchat Campaign Planning Workbook
+# Snapchat Campaign Planning Toolkit
 
-A planning set for defining a Snapchat campaign hypothesis, creative variants, budget guardrails, and decision criteria using the advertiser’s own economics and current account data.
+A structured planning and QA toolkit for Snapchat campaigns in Saudi Arabia and nearby markets. It helps teams connect the objective, audience, creative brief, measurement plan, and store economics without assuming platform superiority or a fixed benchmark.
 
 ## Included
 
-- `test-brief.md` — campaign and audience brief.
-- `experiment-log.csv` — record variants, delivery, spend, and outcomes.
-- `decision-guide.md` — compare results without universal CPC/CPA claims.
+- [`SKILL.md`](SKILL.md): campaign planning workflow.
+- [`playbooks/`](playbooks/): hook development and geographic test planning.
+- [`templates/snap-budget-test-worksheet.md`](templates/snap-budget-test-worksheet.md): budget worksheet; replace examples with approved account inputs.
+- [`checklists/`](checklists/): storefront event and launch QA.
 
-## Planning sequence
+## Use it
 
-1. Confirm the business objective and the downstream event that represents value.
-2. Set an allowable acquisition cost from contribution economics and business constraints.
-3. Define one test question at a time (audience, creative, offer, or landing experience).
-4. Check current placement specifications and policy in Snapchat’s official documentation.
-5. Decide in advance what evidence is sufficient to continue, revise, or stop; account for volume and uncertainty.
-6. Document the date range, attribution settings, spend, delivery, and any simultaneous changes.
-
-This is a planning workbook, not a claim of lower media costs, guaranteed reach, or campaign performance.
+Define the business outcome, audience, offer, actual margin, creative constraints, attribution window, and test budget first. Verify current ad specifications and policy in [Snap Business Help](https://businesshelp.snapchat.com/s/article/top-snap-specs?language=en_US). Treat every budget, cadence, audience, and performance value in examples as a hypothesis to test, not a platform benchmark or promised result.

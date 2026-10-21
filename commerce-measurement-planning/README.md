@@ -1,19 +1,17 @@
-# Commerce Measurement Planning Kit
+# E-commerce Event Tracking: Implementation and QA Kit
 
-A platform-agnostic planning and QA framework for mapping ecommerce events across storefront, analytics, and advertising destinations. It does not include a production integration or claim that a pixel/CAPI setup is complete.
+A practical set of schemas, checklists, and platform notes for planning and diagnosing browser and server-side commerce events across storefronts and advertising platforms.
 
 ## Included
 
-- `event-map.csv` — event and data-flow inventory.
-- `prelaunch-checklist.md` — review before and after implementation.
-- `architecture-notes.md` — consent, data minimization, deduplication, and reconciliation considerations.
+- [`SKILL.md`](SKILL.md): diagnostic workflow.
+- [`schemas/ecommerce-capi-event-schema.json`](schemas/ecommerce-capi-event-schema.json): event-mapping worksheet; populate it from current platform documentation.
+- [`checklists/`](checklists/): pre-launch and deduplication review prompts.
+- [`guides/`](guides/): platform implementation notes.
+- [`templates/event-tracking-audit-report-template.md`](templates/event-tracking-audit-report-template.md): blank evidence and reconciliation report template.
 
-## Workflow
+## Use safely
 
-1. Map the business event and authoritative source (store, CRM, or backend).
-2. Identify which destinations need the event and what fields are strictly necessary.
-3. Review consent, privacy notice, retention, access, and applicable platform terms with the responsible owner.
-4. Implement in the relevant platform/account using current official documentation and an authorized technical owner.
-5. Validate in test mode, then reconcile observed events against the source system before relying on reports.
+Map the actual storefront data layer, consent state, event IDs, timestamps, currency, and order lifecycle. Test events in each platform's diagnostics, reconcile against backend orders, and document known gaps. Hashing or transmitting identifiers must follow the relevant platform documentation and applicable privacy requirements. Do not assume server-side tracking restores all lost signals or improves match quality by a fixed amount.
 
-Do not assume that hashing makes an identifier anonymous. Have the responsible privacy owner review purpose, consent or other applicable basis, retention, and access before transmitting customer or click identifiers.
+Platform interfaces and APIs change. Verify current official documentation before implementation. This kit is an engineering aid, not a guarantee of delivery, attribution, or compliance.

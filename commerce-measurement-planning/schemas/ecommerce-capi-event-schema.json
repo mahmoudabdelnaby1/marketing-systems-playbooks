@@ -1,0 +1,49 @@
+{
+  "title": "E-commerce Event Mapping Worksheet",
+  "description": "A neutral mapping template. Populate event names and fields only after checking the current official documentation for the selected platform and account.",
+  "events": [
+    {
+      "business_action": "product_view",
+      "source_event_name": "",
+      "destination_event_name": "",
+      "required_fields": [],
+      "event_identifier_source": "",
+      "consent_requirement": "",
+      "test_evidence": ""
+    },
+    {
+      "business_action": "add_to_cart",
+      "source_event_name": "",
+      "destination_event_name": "",
+      "required_fields": [],
+      "event_identifier_source": "",
+      "consent_requirement": "",
+      "test_evidence": ""
+    },
+    {
+      "business_action": "checkout_start",
+      "source_event_name": "",
+      "destination_event_name": "",
+      "required_fields": [],
+      "event_identifier_source": "",
+      "consent_requirement": "",
+      "test_evidence": ""
+    },
+    {
+      "business_action": "order_outcome",
+      "source_event_name": "",
+      "destination_event_name": "",
+      "required_fields": [],
+      "event_identifier_source": "",
+      "consent_requirement": "",
+      "test_evidence": ""
+    }
+  ],
+  "validation_notes": [
+    "Distinguish placed, confirmed, paid, fulfilled, cancelled, and returned orders according to the merchant's definitions.",
+    "Do not assume event names, field paths, attribution windows, deduplication windows, or plan availability are identical across platforms.",
+    "Minimize personal data and follow the merchant's documented consent, access, and retention practices.",
+    "Reconcile test and reported events against the source order system before drawing conclusions."
+  ]
+}
+

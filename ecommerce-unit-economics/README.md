@@ -1,19 +1,18 @@
-# E-commerce Order Economics Worksheet
+# E-commerce Unit Economics Worksheet
 
-A transparent worksheet for separating ad-platform reporting from delivered-order economics. Enter actual store, courier, payment, tax, and advertising data for a defined period; do not use generic regional benchmarks as a substitute for account data.
+An input template and formula framework for estimating contribution per order when payment mix, delivery outcomes, advertising cost, and returns affect realized margin. The CSV is an input template, not a pre-built spreadsheet calculator. Use your own store, courier, payment-provider, tax, and advertising inputs.
 
-## Included
+## What it helps answer
 
-- `inputs.csv` — blank, one-row input template.
-- `method.md` — metric definitions and calculation sequence.
-- `illustrative-example.md` — synthetic arithmetic example with stated assumptions.
+- What contribution remains after product, fulfilment, payment, and advertising costs?
+- How sensitive is the result to COD share, delivery success, and return costs?
+- What break-even acquisition cost follows from the inputs provided?
 
-## Suggested workflow
+## Use it
 
-1. Choose one period, currency, store, and order cohort.
-2. Reconcile placed orders to delivered, cancelled, returned, and refunded orders.
-3. Enter actual revenue treatment, costs, payment fees, and ad spend from source records.
-4. Calculate delivery-adjusted revenue and contribution separately; do not label either as “net profit” without including all relevant costs.
-5. Reconcile the worksheet against store, courier, payment, and ad-platform exports before using it for budget decisions.
+1. Start with [`templates/mena-unit-economics-input-template.csv`](templates/mena-unit-economics-input-template.csv).
+2. Fill the blank input fields with current, account-specific figures and document the source/date.
+3. Confirm tax treatment with the business's accountant and verify provider fees from current contracts/rate cards.
+4. Compare the model with settled orders and cash receipts before making budget decisions.
 
-This is a planning worksheet, not accounting, tax, or investment advice. Tax rules, shipping contracts, and payment fees vary; confirm them with the applicable source and qualified adviser.
+This package contains a blank input template and a blank case-study structure; it does not contain client results or regional benchmarks. See [`frameworks/cod-net-roas-formulas.md`](frameworks/cod-net-roas-formulas.md) for model assumptions. This worksheet is not tax, accounting, or investment advice.
