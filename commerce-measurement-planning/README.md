@@ -15,3 +15,5 @@ A practical set of schemas, checklists, and platform notes for planning and diag
 Map the actual storefront data layer, consent state, event IDs, timestamps, currency, and order lifecycle. Test events in each platform's diagnostics, reconcile against backend orders, and document known gaps. Hashing or transmitting identifiers must follow the relevant platform documentation and applicable privacy requirements. Do not assume server-side tracking restores all lost signals or improves match quality by a fixed amount.
 
 Platform interfaces and APIs change. Verify current official documentation before implementation. This kit is an engineering aid, not a guarantee of delivery, attribution, or compliance.
+
+For GA4 source/medium investigations and commerce reconciliation, use [`GA4 Source and Commerce Reconciliation Review`](checklists/ga4-source-reconciliation.md). It emphasizes non-destructive checks and distinguishes analytics events from store orders.

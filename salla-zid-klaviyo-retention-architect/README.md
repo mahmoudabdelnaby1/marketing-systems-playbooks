@@ -20,3 +20,5 @@ An event reference map, customizable message material, and a flow planning templ
 Do not assume every event or field exists in every store. Salla documents Klaviyo integration events; verify the connected account before building a flow.
 
 Examples and worksheets are planning aids. They do not claim client deployment or measured outcomes unless supporting evidence is explicitly supplied.
+
+For technical email checks, see [`Email Sender Readiness`](checklists/email-sender-readiness.md). It does not determine legal permission to contact a list or replace qualified privacy advice.

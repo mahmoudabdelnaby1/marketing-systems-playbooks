@@ -20,7 +20,10 @@ A practical collection of reusable playbooks, prompts, worksheets, and review to
 14. [Seasonal Commerce Campaign Planner](mena-white-friday-11-11-war-room/README.md) — Calculate discount impact from inputs, review stock, pages, and tracking, then assign monitoring and stop rules.
 15. [Salla & Zid Lifecycle Messaging Planner](salla-zid-klaviyo-retention-architect/README.md) — Verify account events and payloads, configure exclusions and frequency, and run internal tests before launch.
 16. [TikTok Spark & Creator Brief Planner](tiktok-spark-ugc-mena-factory/README.md) — Approve the claims and brief, document paid usage rights, territory and dates, then verify authorization in TikTok before launch.
+17. [MENA Multi-Location Local Search Planner](mena-local-search-presence-planner/README.md) — Keep branch details, local pages, profile operations, and evidence aligned without creating duplicate location pages.
+18. [Organic Content & Video Operations Planner](organic-content-video-operations/README.md) — Plan useful organic content, production, rights, repurposing, and measurement across channels.
+19. [E-commerce Funnel Diagnostic](ecommerce-funnel-diagnostic/README.md) — Find and validate customer-journey drop-off before choosing a store or checkout change.
 
 ## How to use
 
-Start with the relevant README, replace example fields with current business inputs, and record sources and dates for changing facts. Verify platform behavior in official documentation and route legal or regulated decisions to qualified reviewers. Illustrative examples are not benchmarks or promises.
+Start with the relevant README, replace blank fields with current business inputs, and record sources and dates for changing facts. Verify platform behavior in official documentation and route legal or regulated decisions to qualified reviewers. Templates are not benchmarks or promises. Related workflows are integrated into existing toolkits where they overlap, so the collection can grow without publishing duplicate repositories.

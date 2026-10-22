@@ -20,3 +20,5 @@ A bilingual observation log and repeatable sample protocol for recording answers
 A sample is observational, not a market estimate, and cannot guarantee rankings or citations. Google says existing SEO fundamentals still apply and requires no special optimization for its AI features.
 
 Examples and worksheets are planning aids. They do not claim client deployment or measured outcomes unless supporting evidence is explicitly supplied.
+
+For evidence-led product and service content, see [`guides/buying-guides-and-entity-factsheets.md`](guides/buying-guides-and-entity-factsheets.md). It provides a fact-sheet and buying-guide workflow without ranking or citation promises.

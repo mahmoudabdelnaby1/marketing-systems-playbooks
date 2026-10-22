@@ -20,3 +20,5 @@ A blank test-planning worksheet and asset, measurement, and campaign review chec
 Do not use fixed CPC multipliers or market ratios. Verify current targeting and placement controls in the platform account.
 
 Examples and worksheets are planning aids. They do not claim client deployment or measured outcomes unless supporting evidence is explicitly supplied.
+
+For search-term exclusions, use the account-specific [`Arabic Negative Keyword Review`](guides/arabic-negative-keyword-review.md). It requires review of actual queries and current official matching guidance before applying exclusions.

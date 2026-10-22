@@ -12,3 +12,7 @@ A writing workflow and reference set for adapting Arabic marketing copy to a spe
 ## Review checklist
 
 Specify country/region, audience, channel, formality, brand voice, product facts, offer terms, and prohibited wording. Have a fluent local reviewer check naturalness and cultural fit. Never invent product benefits, availability, delivery promises, discounts, financing, or results. Test alternatives with real campaign data; localization alone does not guarantee better performance.
+
+For product pages and catalogs, use the [`Fact-Led Product Copy Brief`](templates/fact-led-product-copy-brief.md) to connect each proposed benefit to an approved product fact and source.
+
+For an organization overview, use the [`Company Profile Content Brief`](templates/company-profile-content-brief.md) to build a concise profile from verified services, markets, credentials, and approved proof points.
