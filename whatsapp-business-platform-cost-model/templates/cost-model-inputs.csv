@@ -1,0 +1,2 @@
+estimate_id,market,billing_currency,period_start,period_end,message_category,tier_label,delivered_messages,eligible_no_charge_messages,unit_rate,rate_unit,rate_source_url,rate_access_date,provider_fee_type,provider_fee_amount,taxable_base,tax_rate,assumption,owner,reviewer,status
+,,,,,,,,,,,,,,,,,,,,

@@ -24,3 +24,5 @@ A team needs to connect audience needs, editorial direction, production capacity
 ## Boundaries
 
 This is a planning aid, not a promise of reach, virality, engagement, or lower acquisition cost. Do not invent customer stories, testimonials, or performance results. Check current platform guidance and the actual account before publishing or promoting content.
+
+For time-bound campaigns, use the [Seasonal Video Production Review](checklists/seasonal-video-production-review.md) to coordinate the story, local review, production, rights, versions, and learning without assuming a universal holiday schedule or viewing peak.

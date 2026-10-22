@@ -28,6 +28,7 @@ A practical collection of reusable playbooks, prompts, worksheets, and review to
 22. [Permission-Based Email Deliverability Review](permission-email-deliverability-review/README.md) — Review authentication, alignment, and provider-specific evidence without promising inbox placement.
 23. [Bilingual Client Reporting Workflow](bilingual-client-reporting-workflow/README.md) — Turn approved aggregate marketing data into a source-linked Arabic and/or English report, with reviewed interpretations and next actions.
 24. [Salla & Zid Storefront SEO Review](salla-zid-storefront-seo-qa/README.md) — Review native page metadata against visible store facts, official platform guidance, and controlled publishing QA.
+25. [WhatsApp Business Platform Cost Model](whatsapp-business-platform-cost-model/README.md) — Estimate fees from current official rates and delivered volumes entered by the user; no price card is embedded.
 
 ## How to use
 

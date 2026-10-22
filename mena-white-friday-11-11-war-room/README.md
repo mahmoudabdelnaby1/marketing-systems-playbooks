@@ -20,3 +20,5 @@ A store-readiness checklist, blank scenario template, and prompt for truthful se
 Scenarios are replaceable arithmetic examples, not forecasts. Verify offer terms and account-specific promotion eligibility.
 
 Examples and worksheets are planning aids. They do not claim client deployment or measured outcomes unless supporting evidence is explicitly supplied.
+
+Use the [Seasonal Campaign Operations Review](checklists/seasonal-campaign-operations-review.md) as the owner-based launch and contingency pass for any seasonal occasion. It intentionally leaves dates, benchmarks, and budget percentages to the actual plan inputs.
