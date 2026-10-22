@@ -27,6 +27,7 @@ A practical collection of reusable playbooks, prompts, worksheets, and review to
 21. [Revenue and ROAS Reconciliation](revenue-roas-reconciliation/README.md) — Compare platform attribution with store and finance records using declared definitions.
 22. [Permission-Based Email Deliverability Review](permission-email-deliverability-review/README.md) — Review authentication, alignment, and provider-specific evidence without promising inbox placement.
 23. [Bilingual Client Reporting Workflow](bilingual-client-reporting-workflow/README.md) — Turn approved aggregate marketing data into a source-linked Arabic and/or English report, with reviewed interpretations and next actions.
+24. [Salla & Zid Storefront SEO Review](salla-zid-storefront-seo-qa/README.md) — Review native page metadata against visible store facts, official platform guidance, and controlled publishing QA.
 
 ## How to use
 
