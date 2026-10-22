@@ -2,7 +2,7 @@
 
 1. **Record exists, message fails:** Report DNS configuration and message authentication separately; identify the tested provider and message.
 2. **Authentication passes, alignment is unclear:** Do not call DMARC aligned until the relevant authenticated identifier matches under the published alignment mode.
-3. **Gmail bulk rule:** Apply the additional Gmail requirements only when the sender exceeds 5,000 messages per day to Gmail personal accounts; distinguish marketing/subscribed messages from transactional mail.
+3. **Gmail high-volume rule:** Check the current Gmail FAQ and compliance dashboard around the 5,000-message/day boundary, including how domains are aggregated; distinguish marketing/subscribed messages from transactional mail.
 4. **Provider mismatch:** Do not apply Yahoo's unsubscribe acceptance or Outlook.com consumer rules to another service without checking its own guidance.
 5. **Header shared publicly:** Stop and sanitize recipient data, message body, identifiers, and tokens before sharing.
 6. **A test reaches inbox:** Record the single test result; do not infer a delivery guarantee for all recipients, providers, or future sends.

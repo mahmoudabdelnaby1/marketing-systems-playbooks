@@ -28,4 +28,19 @@ Use this checklist when an inquiry, WhatsApp conversation, phone call, or store 
 | Unmatched or rejected events and investigation status | ___ |
 | Retention/deletion and access review | ___ |
 
+## Team handoff and operating cadence
+
+Agree who owns each step before the first import or report:
+
+| Owner | Responsibility | Record / timing |
+|---|---|---|
+| Marketing | Campaign, market, reporting-period, and source-spend definitions | Agreed export and reporting cadence: ___ |
+| Sales / customer operations | Outcome status, status-change time, and source-system record | Update cadence and required fields: ___ |
+| Analytics / implementation | Event mapping, deduplication, import behavior, and discrepancy investigation | Test evidence and change log: ___ |
+| Finance / business owner | Revenue, payment, refund, currency, and collection definitions | Definition approver and review date: ___ |
+
+At each review, reconcile aggregate counts and values first; then assign owners and due dates for late, rejected, duplicate, unmatched, and unknown records. Keep the comparison period, timezone, outcome-stage definitions, and system of record explicit. Do not force uncertain records into a channel or outcome category to make totals agree. Revisit definitions when the business process or data path changes.
+
+Use row-level matching only when aggregate reconciliation cannot answer the decision and the business has approved the purpose, access, retention, and destination-specific data handling. A consent field or hashed identifier by itself does not establish permission to upload data.
+
 A reported event or platform-attributed conversion is not, by itself, proof of incrementality or collected revenue. This checklist does not replace legal, privacy, or platform-policy review.
