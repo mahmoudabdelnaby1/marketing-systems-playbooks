@@ -26,6 +26,7 @@ A practical collection of reusable playbooks, prompts, worksheets, and review to
 20. [Marketing Incrementality Test Design](mena-incrementality-test-designer/README.md) — Decide whether a controlled test is feasible, preregister it, and interpret results within their limits.
 21. [Revenue and ROAS Reconciliation](revenue-roas-reconciliation/README.md) — Compare platform attribution with store and finance records using declared definitions.
 22. [Permission-Based Email Deliverability Review](permission-email-deliverability-review/README.md) — Review authentication, alignment, and provider-specific evidence without promising inbox placement.
+23. [Bilingual Client Reporting Workflow](bilingual-client-reporting-workflow/README.md) — Turn approved aggregate marketing data into a source-linked Arabic and/or English report, with reviewed interpretations and next actions.
 
 ## How to use
 
