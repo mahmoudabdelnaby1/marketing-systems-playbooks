@@ -22,3 +22,6 @@ Do not use fixed CPC multipliers or market ratios. Verify current targeting and 
 Examples and worksheets are planning aids. They do not claim client deployment or measured outcomes unless supporting evidence is explicitly supplied.
 
 For search-term exclusions, use the account-specific [`Arabic Negative Keyword Review`](guides/arabic-negative-keyword-review.md). It requires review of actual queries and current official matching guidance before applying exclusions.
+
+
+For a performance change, use the account-history-based [Creative Performance Change Triage](checklists/creative-performance-change-triage.md). It avoids universal fatigue cutoffs and checks measurement and auction conditions first.

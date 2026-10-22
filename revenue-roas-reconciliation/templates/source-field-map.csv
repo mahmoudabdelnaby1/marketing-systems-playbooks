@@ -1,0 +1,9 @@
+canonical_field,source_system,source_field,definition,transform,timezone,currency,required_for_view,notes
+order_key,[restricted source],[source field],[business-approved matching key],[document transformation],[source timezone],[order currency],[yes/no],[Do not place real customer data in public files]
+order_created_at,[store],[field],[order creation time],[parse and preserve source timestamp],[source timezone],,[order-placement view],
+order_status,[store],[field],[mapped lifecycle status],[document status mapping],,,[all views],
+captured_amount,[payment provider],[field],[captured amount under provider definition],[document fees/refunds separately],[source timezone],[settlement or transaction currency],[captured-payment view],
+refund_amount,[store or payment provider],[field],[refund/reversal amount],[link to original order in restricted system],[source timezone],[transaction currency],[net view],
+cod_collected_status,[fulfilment or finance],[field],[business-confirmed COD collection state],[map status with owner approval],[source timezone],[order currency],[COD view],
+platform_attributed_value,[ad platform],[field],[platform-reported attributed value],[retain platform and setting separately],[platform reporting timezone],[platform reporting currency],[platform view],
+platform_spend,[ad platform],[field],[platform-reported spend],[retain platform and filters separately],[platform reporting timezone],[platform reporting currency],[efficiency view],

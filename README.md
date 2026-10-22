@@ -23,6 +23,9 @@ A practical collection of reusable playbooks, prompts, worksheets, and review to
 17. [MENA Multi-Location Local Search Planner](mena-local-search-presence-planner/README.md) — Keep branch details, local pages, profile operations, and evidence aligned without creating duplicate location pages.
 18. [Organic Content & Video Operations Planner](organic-content-video-operations/README.md) — Plan useful organic content, production, rights, repurposing, and measurement across channels.
 19. [E-commerce Funnel Diagnostic](ecommerce-funnel-diagnostic/README.md) — Find and validate customer-journey drop-off before choosing a store or checkout change.
+20. [Marketing Incrementality Test Design](mena-incrementality-test-designer/README.md) — Decide whether a controlled test is feasible, preregister it, and interpret results within their limits.
+21. [Revenue and ROAS Reconciliation](revenue-roas-reconciliation/README.md) — Compare platform attribution with store and finance records using declared definitions.
+22. [Permission-Based Email Deliverability Review](permission-email-deliverability-review/README.md) — Review authentication, alignment, and provider-specific evidence without promising inbox placement.
 
 ## How to use
 

@@ -16,3 +16,6 @@ Specify country/region, audience, channel, formality, brand voice, product facts
 For product pages and catalogs, use the [`Fact-Led Product Copy Brief`](templates/fact-led-product-copy-brief.md) to connect each proposed benefit to an approved product fact and source.
 
 For an organization overview, use the [`Company Profile Content Brief`](templates/company-profile-content-brief.md) to build a concise profile from verified services, markets, credentials, and approved proof points.
+
+
+Use the [Cross-Market Copy Review](checklists/cross-market-copy-review.md) after adaptation to record meaning, market evidence, local review, and approval.

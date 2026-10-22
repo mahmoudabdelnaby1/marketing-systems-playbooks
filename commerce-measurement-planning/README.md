@@ -17,3 +17,6 @@ Map the actual storefront data layer, consent state, event IDs, timestamps, curr
 Platform interfaces and APIs change. Verify current official documentation before implementation. This kit is an engineering aid, not a guarantee of delivery, attribution, or compliance.
 
 For GA4 source/medium investigations and commerce reconciliation, use [`GA4 Source and Commerce Reconciliation Review`](checklists/ga4-source-reconciliation.md). It emphasizes non-destructive checks and distinguishes analytics events from store orders.
+
+
+For inquiries and offline outcomes that later become orders or other business events, use the [Offline Outcome Reconciliation](checklists/offline-outcome-reconciliation.md). It complements setup guidance and does not authorize data uploads.
