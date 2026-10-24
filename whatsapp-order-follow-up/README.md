@@ -14,3 +14,5 @@ Reusable message flows and operating prompts for order confirmation, cart follow
 Confirm opt-in and template category/approval, current provider pricing, business hours, delivery/return policies, and escalation ownership. Collect only information needed to fulfill the order; do not request passwords, payment-card data, or unnecessary location/health data. Define retention and deletion practices with the business. Test with internal numbers before enabling customer traffic.
 
 No recovery, RTO, or revenue lift is guaranteed. Measure outcomes against a documented baseline and a suitable comparison period.
+
+For cross-functional launch checks related to this toolkit, see the [Marketing Workflow QA & Evidence Gates](../marketing-workflow-qa-gates/README.md#07-email-lifecycle--automation).

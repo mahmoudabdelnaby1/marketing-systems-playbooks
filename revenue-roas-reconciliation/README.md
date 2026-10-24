@@ -38,3 +38,5 @@ Use `SKILL.md` for an AI-assisted or analyst-led workflow. Copy the blank templa
 ## References
 
 Confirm current platform attribution settings in the relevant platform account and current financial definitions with the business's finance owner. The framework is platform-neutral and makes no claim that one attribution setting is correct for every decision.
+
+For cross-functional launch checks related to this toolkit, see the [Marketing Workflow QA & Evidence Gates](../marketing-workflow-qa-gates/README.md#10-reporting--evidence-governance).

@@ -24,3 +24,5 @@ Examples and worksheets are planning aids. They do not claim client deployment o
 ## Official reference
 
 - [TikTok Spark Ads creation guide](https://ads.tiktok.com/resources/help/article/spark-ads-creation-guide?lang=en)
+
+For cross-functional launch checks related to this toolkit, see the [Marketing Workflow QA & Evidence Gates](../marketing-workflow-qa-gates/README.md#04-creative-content--rights).

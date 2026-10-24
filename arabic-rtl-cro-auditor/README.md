@@ -29,3 +29,5 @@ Test URL or environment, device, browser, language, task steps, enabled payment 
 This review does not predict conversion lift, certify legal compliance, or replace user research. Confirm delivery, payment, and return details with approved policy. Never recommend bypassing authentication, OTP, fraud, or payment controls.
 
 Examples and worksheets are planning aids. They do not claim client deployment or measured outcomes unless supporting evidence is explicitly supplied.
+
+For cross-functional launch checks related to this toolkit, see the [Marketing Workflow QA & Evidence Gates](../marketing-workflow-qa-gates/README.md#06-arabic-localization--parity).

@@ -37,3 +37,5 @@ Authentication is not a guarantee of inbox placement. A single sample does not e
 Use `SKILL.md` for the review sequence. Use [the provider matrix](references/provider-matrix.md), [the capture template](templates/sanitized-header-capture.md), and [the report template](templates/review-report.md). Make no DNS or sending change based solely on this checklist; have the domain/provider owner validate the proposed change.
 
 For recipient eligibility and automated outreach controls, use the separate [Outbound Permission and Suppression Review](templates/outbound-permission-and-suppression-review.md). It complements the technical deliverability review; it does not replace jurisdiction-specific legal review.
+
+For cross-functional launch checks related to this toolkit, see the [Marketing Workflow QA & Evidence Gates](../marketing-workflow-qa-gates/README.md#07-email-lifecycle--automation).

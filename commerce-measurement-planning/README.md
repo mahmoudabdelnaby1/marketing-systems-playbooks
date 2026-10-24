@@ -20,3 +20,5 @@ For GA4 source/medium investigations and commerce reconciliation, use [`GA4 Sour
 
 
 For inquiries and offline outcomes that later become orders or other business events, use the [Offline Outcome Reconciliation](checklists/offline-outcome-reconciliation.md). It complements setup guidance and does not authorize data uploads.
+
+For cross-functional launch checks related to this toolkit, see the [Marketing Workflow QA & Evidence Gates](../marketing-workflow-qa-gates/README.md#01-measurement-attribution--consent).

@@ -25,3 +25,5 @@ Traffic, leads, or orders change and the team needs to diagnose the path from so
 ## Boundaries
 
 This diagnostic sets no universal conversion thresholds and makes no market-wide claim. Use actual account and store evidence. It is not tax, legal, payment-provider, or accounting advice; verify provider terms and route regulated questions to qualified reviewers.
+
+For cross-functional launch checks related to this toolkit, see the [Marketing Workflow QA & Evidence Gates](../marketing-workflow-qa-gates/README.md#08-journey-landing-page--cro).

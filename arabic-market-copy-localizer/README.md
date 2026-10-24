@@ -21,3 +21,5 @@ For an organization overview, use the [`Company Profile Content Brief`](template
 Use the [Cross-Market Copy Review](checklists/cross-market-copy-review.md) after adaptation to record meaning, market evidence, local review, and approval.
 
 For Ramadan, Eid, and other culturally specific campaigns, also use the [Seasonal and Cultural Copy Review](checklists/seasonal-cultural-copy-review.md). It checks the brief, evidence, language, and final creative without assuming one behaviour or dialect fits every audience.
+
+For cross-functional launch checks related to this toolkit, see the [Marketing Workflow QA & Evidence Gates](../marketing-workflow-qa-gates/README.md#06-arabic-localization--parity).

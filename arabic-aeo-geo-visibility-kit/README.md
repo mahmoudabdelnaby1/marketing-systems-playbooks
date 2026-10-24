@@ -24,3 +24,5 @@ Examples and worksheets are planning aids. They do not claim client deployment o
 For evidence-led product and service content, see [`guides/buying-guides-and-entity-factsheets.md`](guides/buying-guides-and-entity-factsheets.md). It provides a fact-sheet and buying-guide workflow without ranking or citation promises.
 
 For earned media, use the [Evidence-Led Digital PR Workflow](guides/evidence-led-digital-pr-workflow.md) to plan a useful, source-backed asset, a relevant pitch, and honest outcome tracking. Coverage, links, rankings, and AI citations are measured separately; none is guaranteed.
+
+For cross-functional launch checks related to this toolkit, see the [Marketing Workflow QA & Evidence Gates](../marketing-workflow-qa-gates/README.md#02-search--ai-discovery).

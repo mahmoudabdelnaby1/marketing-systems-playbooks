@@ -24,3 +24,5 @@ Examples and worksheets are planning aids. They do not claim client deployment o
 ## Official reference
 
 - [Google Merchant Center product data specification](https://support.google.com/merchants/answer/7052112?hl=en)
+
+For cross-functional launch checks related to this toolkit, see the [Marketing Workflow QA & Evidence Gates](../marketing-workflow-qa-gates/README.md#05-commerce-feeds--conversion).

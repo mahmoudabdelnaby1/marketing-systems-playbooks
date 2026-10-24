@@ -30,6 +30,11 @@ A practical collection of reusable playbooks, prompts, worksheets, and review to
 24. [Salla & Zid Storefront SEO Review](salla-zid-storefront-seo-qa/README.md) — Review native page metadata against visible store facts, official platform guidance, and controlled publishing QA.
 25. [WhatsApp Business Platform Cost Model](whatsapp-business-platform-cost-model/README.md) — Estimate fees from current official rates and delivered volumes entered by the user; no price card is embedded.
 
+26. [App Store Listing Research & Test Planner](aso-listing-research-planner/README.md) — Turn store and audience evidence into a focused listing hypothesis and controlled test plan.
+27. [Marketing Mix Modeling: Data Readiness & Decision Brief](mmm-data-readiness-decision-brief/README.md) — Check data suitability and communicate model assumptions and uncertainty before a budget decision.
+28. [Public Ad Creative Review](public-ad-creative-review/README.md) — Manually document visible creative patterns without inferring performance or scraping.
+29. [Marketing Workflow QA & Evidence Gates](marketing-workflow-qa-gates/README.md) — Coordinate campaign, content, commerce, measurement, lifecycle and discovery reviews with evidence and owners.
+
 ## How to use
 
-Start with the relevant README, replace blank fields with current business inputs, and record sources and dates for changing facts. Verify platform behavior in official documentation and route legal or regulated decisions to qualified reviewers. Templates are not benchmarks or promises. Related workflows are integrated into existing toolkits where they overlap, so the collection can grow without publishing duplicate repositories.
+Start with the relevant README, replace blank fields with current business inputs, and record sources and dates for changing facts. Verify platform behavior in official documentation and route legal or regulated decisions to qualified reviewers. Templates are not benchmarks or promises. Related workflows are integrated into existing toolkits where they overlap, so the collection can grow without publishing duplicate repositories. The new listing, modeling and public-creative guides are planning aids; they do not claim client deployment, measured outcomes or production software.

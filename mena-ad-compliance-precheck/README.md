@@ -29,3 +29,4 @@ This is a planning aid, not legal advice, a regulator approval, or an automated 
 
 The checklist helps organize a human review; it does not determine whether a specific asset complies with current law.
 
+For cross-functional launch checks related to this toolkit, see the [Marketing Workflow QA & Evidence Gates](../marketing-workflow-qa-gates/README.md#03-campaign-operations--governance).

@@ -46,3 +46,5 @@ This is a reporting workflow and a set of templates. It is not an automated CSV 
 
 - [Revenue and ROAS Reconciliation](../revenue-roas-reconciliation/README.md) — compare platform-reported results with store, payment, fulfilment, and finance records.
 - [Marketing Incrementality Test Design](../mena-incrementality-test-designer/README.md) — design a controlled test when the question is whether marketing caused additional outcomes.
+
+For cross-functional launch checks related to this toolkit, see the [Marketing Workflow QA & Evidence Gates](../marketing-workflow-qa-gates/README.md#10-reporting--evidence-governance).

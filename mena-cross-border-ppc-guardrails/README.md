@@ -29,3 +29,5 @@ For a performance change, use the account-history-based [Creative Performance Ch
 For a defined seasonal flight, use the [Seasonal Paid-Media Pacing Review](checklists/seasonal-paid-media-pacing-review.md) to plan and monitor pacing from the account's own baseline, economics, delivery, and operational guardrails. It does not prescribe seasonal multipliers or universal dayparts.
 
 For an account or business-asset restriction, use the [Paid-Account Restriction Incident Record](checklists/account-restriction-incident-response.md) to preserve the notice, identify the affected asset, organize evidence, and follow the platform's current in-account process. It does not promise prevention or reinstatement.
+
+For cross-functional launch checks related to this toolkit, see the [Marketing Workflow QA & Evidence Gates](../marketing-workflow-qa-gates/README.md#03-campaign-operations--governance).

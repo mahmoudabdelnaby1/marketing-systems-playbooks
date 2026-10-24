@@ -22,3 +22,5 @@ Do not assume every event or field exists in every store. Salla documents Klaviy
 Examples and worksheets are planning aids. They do not claim client deployment or measured outcomes unless supporting evidence is explicitly supplied.
 
 For technical email checks, see [`Email Sender Readiness`](checklists/email-sender-readiness.md). It does not determine legal permission to contact a list or replace qualified privacy advice.
+
+For cross-functional launch checks related to this toolkit, see the [Marketing Workflow QA & Evidence Gates](../marketing-workflow-qa-gates/README.md#07-email-lifecycle--automation).
