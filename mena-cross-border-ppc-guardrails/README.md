@@ -27,3 +27,5 @@ For search-term exclusions, use the account-specific [`Arabic Negative Keyword R
 For a performance change, use the account-history-based [Creative Performance Change Triage](checklists/creative-performance-change-triage.md). It avoids universal fatigue cutoffs and checks measurement and auction conditions first.
 
 For a defined seasonal flight, use the [Seasonal Paid-Media Pacing Review](checklists/seasonal-paid-media-pacing-review.md) to plan and monitor pacing from the account's own baseline, economics, delivery, and operational guardrails. It does not prescribe seasonal multipliers or universal dayparts.
+
+For an account or business-asset restriction, use the [Paid-Account Restriction Incident Record](checklists/account-restriction-incident-response.md) to preserve the notice, identify the affected asset, organize evidence, and follow the platform's current in-account process. It does not promise prevention or reinstatement.

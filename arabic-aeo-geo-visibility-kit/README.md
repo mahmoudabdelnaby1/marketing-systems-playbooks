@@ -22,3 +22,5 @@ A sample is observational, not a market estimate, and cannot guarantee rankings 
 Examples and worksheets are planning aids. They do not claim client deployment or measured outcomes unless supporting evidence is explicitly supplied.
 
 For evidence-led product and service content, see [`guides/buying-guides-and-entity-factsheets.md`](guides/buying-guides-and-entity-factsheets.md). It provides a fact-sheet and buying-guide workflow without ranking or citation promises.
+
+For earned media, use the [Evidence-Led Digital PR Workflow](guides/evidence-led-digital-pr-workflow.md) to plan a useful, source-backed asset, a relevant pitch, and honest outcome tracking. Coverage, links, rankings, and AI citations are measured separately; none is guaranteed.
